@@ -9,7 +9,12 @@ Started with the purpose of learning and experimenting with new technologies, an
 
 ## Road Map
 
-As a starting point, Conflate will be a simple UWP application connecting to a RESTful Web API, with a SQLite Data Layer.
+As a starting point, Conflate will be a simple UWP application connecting to a RESTful Web API, with an SQLite Data Layer.
+
+## In-Progress:
+
+* UWP app with MVVM pattern
+* MasterDetail Layout
 
 ## Future steps include: 
 
